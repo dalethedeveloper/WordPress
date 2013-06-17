@@ -1,0 +1,17 @@
+ {
+	"name": "creativepioneers/wordpress",
+	"type": "cms",
+	"description": "WordPress, Git-ified and Compos(er)-ified",
+	"keywords": ["cms"],
+	"homepage": "http://wordpress.org",
+	"config": {
+		"vendor-dir": "wp-content/plugins/"
+	},
+	"authors": [{
+	"name": "The WordPress Community",
+		"homepage": "http://core.trac.wordpress.org/"
+		 }],
+	"require": {
+		"php": ">=5.3.0"
+		}
+}
